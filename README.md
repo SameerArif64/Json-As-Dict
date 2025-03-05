@@ -10,4 +10,4 @@ json_as_dict is a lightweight Python library that provides a dictionary-like int
 
 ## Installation
 ```sh
-pip install json-as-dict
+pip install git+https://github.com/SameerArif64/Json-As-Dict
